@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **react, node, Symfony, Laravel**
+- 💬 Ask me about **react, express, Symfony, Laravel**
 
 - 📫 How to reach me **yassinkaabi14@gmail.com**
 
