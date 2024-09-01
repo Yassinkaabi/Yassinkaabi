@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yassinkaabi&label=Profile%20views&color=0e75b6&style=flat" alt="yassinkaabi" /> </p>
 
-- 🔭 I’m currently working on **Diet-project**
+- 🔭 I’m currently working on **Mern stack**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **spring boot**
 
 - 💬 Ask me about **react, express, Symfony, Laravel**
 
-- 📫 How to reach me **yassinkaabi14@gmail.com**
+- 📫 How to reach me **yassinealkaabi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
