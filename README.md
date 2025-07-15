@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Mern stack**
 
-- 🌱 I’m currently learning **spring boot**
+- 🌱 I’m currently learning **nestJs**
 
 - 💬 Ask me about **react, express, Symfony, Laravel**
 
